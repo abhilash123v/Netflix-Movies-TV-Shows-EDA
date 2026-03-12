@@ -1,0 +1,14 @@
+before running the code in terminal 
+create virtual environment by running a command in terminal
+python -m venv venv
+activate virtual environment command
+venv\scripts\activate
+after this
+run pip install -r requirements.txt
+after
+python src/netflix_eda.py
+
+after 
+cd src
+after
+python netflix_eda.py
